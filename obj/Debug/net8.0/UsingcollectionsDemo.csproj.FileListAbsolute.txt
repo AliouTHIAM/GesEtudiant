@@ -12,3 +12,4 @@
 /home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.pdb
 /home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.genruntimeconfig.cache
 /home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/ref/UsingcollectionsDemo.dll
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.sourcelink.json
