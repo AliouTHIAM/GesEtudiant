@@ -1,0 +1,14 @@
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/bin/Debug/net8.0/UsingcollectionsDemo
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/bin/Debug/net8.0/UsingcollectionsDemo.deps.json
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/bin/Debug/net8.0/UsingcollectionsDemo.runtimeconfig.json
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/bin/Debug/net8.0/UsingcollectionsDemo.dll
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/bin/Debug/net8.0/UsingcollectionsDemo.pdb
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.AssemblyInfoInputs.cache
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.AssemblyInfo.cs
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.csproj.CoreCompileInputs.cache
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.dll
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/refint/UsingcollectionsDemo.dll
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.pdb
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/UsingcollectionsDemo.genruntimeconfig.cache
+/home/aliou/Desktop/school/c#/UsingcollectionsDemo/obj/Debug/net8.0/ref/UsingcollectionsDemo.dll
